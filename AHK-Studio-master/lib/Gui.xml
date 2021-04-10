@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<gui>
+	<win win="1" pos="x2873 y0 w958 h1028">
+		<control h="-36" w="0" x="0" y="0" type="Scintilla" file="E:\DevOps\SCRIPTS\DEv\La Trobe\Citation and Reference Keeper (Websites)\App - Citation and Reference Keeper for Websites.ahk" hwnd="459668" ra="1839194" ba="1508488" last="1"></control>
+		<control h="-20" w="0" x="0" y="0" lp="0.73903967" type="Project Explorer" hwnd="1839194" ba="986282"></control>
+		<control h="-24" w="0" x="0" y="-20" lp="0.73903967" tp="0.45307770" type="Code Explorer" hwnd="986282"></control>
+		<control hwnd="1508488" type="Debug" h="-8" w="0" x="0" y="-36" tp="0.82649842" ra="986282"></control></win>
+</gui>

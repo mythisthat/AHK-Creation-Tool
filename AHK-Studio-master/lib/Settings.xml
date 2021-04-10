@@ -1,0 +1,206 @@
+﻿<?xml version="1.0"?>
+<settings>
+	<fonts>
+		<name>Zenburn_dark_with_maestrith</name>
+		<author>Run1e and maestrith</author>
+		<font background="3158064" bold="0" color="16777215" font="Consolas" size="10" style="5" italic="0" strikeout="0" underline="0"></font>
+		<font background="3158064" style="33" color="16777215" font="Consolas" bold="0" italic="0"></font>
+		<font style="0" color="12632256"></font>
+		<font style="1" color="8363903" bold="0" italic="1" size="10" strikeout="0" underline="0"></font>
+		<font style="2" color="8421616"></font>
+		<font style="3" color="8816334"></font>
+		<font style="4" color="16777215"></font>
+		<font style="11" color="16744576" bold="0" italic="0" size="10" strikeout="0" underline="0"></font>
+		<font style="13" color="255" background="0"></font>
+		<font style="15" color="12110995"></font>
+		<font style="17" color="7843024"></font>
+		<font style="18" color="13617276"></font>
+		<font style="19" color="16758590"></font>
+		<font style="21" color="9749720"></font>
+		<font style="22" color="14732901"></font>
+		<font style="37" color="4227327"></font>
+		<font bool="1" code="2068" color="32896"></font>
+		<font code="2069" color="16777215"></font>
+		<font code="2098" color="4473924"></font>
+		<font code="2601" color="8421504"></font>
+		<font style="20" color="16759366"></font>
+		<font style="24" color="15458669"></font>
+		<font style="23" color="8241367"></font>
+		<font style="9" color="11184810"></font>
+		<font style="8" color="9737364"></font>
+		<font style="10" color="255" background="0"></font>
+		<font style="16" color="5741559"></font>
+		<font style="55" color="4227327"></font>
+		<font style="56" color="8421440"></font>
+		<font style="57" color="16744576"></font>
+		<font style="58" color="8388863"></font>
+		<font style="41" color="16776960"></font>
+		<font style="40" color="65408"></font>
+		<font style="42" color="0" background="255"></font>
+		<font background="8388863" style="30"></font>
+		<font background="4227072" style="31"></font>
+		<font code="2188" value="1"></font>
+		<font background="65535" style="48"></font>
+		<custom control="msctls_statusbar321" gui="1" bold="0" color="0" font="Consolas" italic="0" size="10" strikeout="0" underline="0"></custom>
+		<font style="34" bold="0" color="8388863" font="Consolas" italic="0" size="10" strikeout="0" underline="0"></font>
+		<font style="97" color="8421504"></font>
+		<font style="99" color="16744576"></font>
+	</fonts>
+	<options Manual_Continuation_Line="1" Full_Auto_Indentation="1" Focus_Studio_On_Debug_Breakpoint="1" Auto_Complete_In_Quotes="1" Auto_Complete_While_Tips_Are_Visible="1" Auto_Complete="1" Autocomplete_Enter_Newline="1"></options>
+	<filetypes>
+		<type>ahk</type>
+		<type>txt</type>
+		<type>xml</type>
+		<type>htm</type>
+		<type>html</type>
+	</filetypes>
+	<autoadd altgr="0">
+		<key add="&quot;" trigger="&quot;"></key>
+		<key add="'" trigger="'"></key>
+		<key add=")" trigger="("></key>
+		<key add="]" trigger="["></key>
+		<key add="}" trigger="{"></key></autoadd>
+	<autodelete>
+		<key close="&quot;" open="&quot;"></key>
+		<key close="%" open="%"></key>
+		<key close="'" open="'"></key>
+		<key close=")" open="("></key>
+		<key close="&gt;" open="&lt;"></key>
+		<key close="]" open="&lt;^&gt;["></key>
+		<key close="}" open="&lt;^&gt;{"></key>
+		<key close="]" open="["></key>
+		<key close="}" open="{"></key>
+	</autodelete>
+	<gui zoom="0">
+		<position window="MsgBox_Creator">x894 y317 w400 h279</position>
+		<position window="1" max="-1" lastw="0" lastah=""></position>
+		<position window="20">x652 y389 w600 h223</position>
+		<position window="5">x621 y302 w400 h367</position>
+		<position window="Previous_Scripts">x737 y275 w430 h450</position>
+		<position window="8">x592 y204 w720 h592</position></gui>
+	<previous_scripts>
+		<script>Untitled.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\ToolTip.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\Hotkeys.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\Inputbox and Msgbox.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\Text Autocomplete.ahk</script>
+		<script>E:\SCRIPTS\Prod\Outlook Schedule\Dev\Settings GUI.ahk</script>
+		<script>E:\SCRIPTS\Prod\Outlook Schedule\Dev\F7 Schedule in Outlook - 2017 Build.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\Taskbar Settings.ahk</script>
+		<script>E:\SCRIPTS\Prod\Outlook Schedule\2017\F7 Schedule in Outlook - 2017 Build.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\TrayTip.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Examples\My GUI.ahk</script>
+		<script>Untitled1.ahk</script>
+		<script>C:\Temp\New folder\test.ahk</script>
+		<script>C:\Temp\New folder\My GUI.ahk</script>
+		<script>C:\Temp\New folder\MyGUI.ahk</script>
+		<script>C:\Temp\My GUI\Dev\MY GUI.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\Test2\Working\GUI.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\Test2\Working\Dev\Zenlook.ahk</script>
+		<script>E:\SCRIPTS\Prod\Slash Slash Helper\Slash Slash Helper.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\URL2.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\GetActiveBrowserURL.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\Event2.ahk</script>
+		<script>E:\SCRIPTS\DEv\ChromeScheduler\Dev\Test2\NewEvntWriter.ahk</script>
+		<script>C:\Portable Apps\HidMacros\AHK\dexpot Alt2.ahk</script>
+		<script>C:\Portable Apps\HidMacros\AHK\dexpot Alt3.ahk</script>
+		<script>C:\Portable Apps\HidMacros\AHK\dexpot Alt1.ahk</script>
+		<script>E:\SCRIPTS\Prod\Zenlook Scheduler\Version 1\DEv\Zenlook.ahk</script>
+		<script>E:\SCRIPTS\DEv\Justin exe\Lock.ahk</script>
+		<script>E:\SCRIPTS\DEv\Justin exe\Log Off\Dev\Log Off.ahk</script>
+		<script>E:\SCRIPTS\DEv\Local Latency Monitor and Advisor\LatMon.ahk</script>
+		<script>C:\Portable Apps\HidMacros\AHK\dexpot Alt4.ahk</script>
+		<script>E:\SCRIPTS\Prod\Zenlook Scheduler\Version 2\DEv\Zenlook.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Outlook Quick Scheduler .ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Zenlook.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Event Docked.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Outlook Schedule\2017\F7 Schedule in Outlook - 2017 Build.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Working\Easy Schedule 2 Outlook.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev - V3\Working\Schedule 2 Outlook - V3.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Dev\Word Replace.ahk</script>
+		<script>E:\SCRIPTS\DEv\Windows Update Suppresor\Dev Resources\Working\Resources.ahk</script>
+		<script>E:\SCRIPTS\DEv\Windows Update Suppresor\Dev\Windows Update v1.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev\Usable\Working\test Var.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev - V4\Working\Schedule 2 Outlook - V4.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\Dev - V5\Working\Schedule 2 Outlook - V5.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Dev\PPSA New Signature.ahk</script>
+		<script>E:\SCRIPTS\DEv\IP Refresher\IP Refresher.ahk</script>
+		<script>E:\SCRIPTS\DEv\IP Refresher\Wi-Fi Refresher.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Resources\Overlay.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Resources\Include file.ahk</script>
+		<script>E:\SCRIPTS\DEv\File Catcher\FiCat.ahk</script>
+		<script>E:\SCRIPTS\DEv\InternetConnection\InternetConnection1.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Ver 2\Dev\test.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Tools\icon.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Ver 2\New Signature Editor.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Tools\logo.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Tools\ico.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Tools\overlay.ahk</script>
+		<script>E:\SCRIPTS\DEv\Easy Schedule 2 Outlook\TestingProd v5\Schedule 2 Outlook - V5.ahk</script>
+		<script>E:\SCRIPTS\DEv\Signature Replacer\Ver 2\Dev\Auto-Signature.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Dev\AHK Tools\AHK Creation Tools.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\TrayTip.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\ToolTip.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\Text Autocomplete.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\My GUI.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\Inputbox and Msgbox.ahk</script>
+		<script>E:\SCRIPTS\Tools\AHK Creation Tools\Projects\Examples\Hotkeys.ahk</script>
+		<script>E:\SCRIPTS\DEv\PowerSaver Schedule\Dev\Resources\Loop.ahk</script>
+		<script>E:\SCRIPTS\DEv\SimpleRecord\Dev\Simple Problem Capture - Dev.ahk</script>
+		<script>E:\SCRIPTS\DEv\SimpleRecord\Dev\nircmd.ahk</script>
+		<script>E:\SCRIPTS\DEv\1.For Damo\AHK\Server Alive\ServerAlive.ahk</script>
+		<script>E:\SCRIPTS\DEv\PowerLook\Dev\Main.ahk</script>
+		<script>E:\SCRIPTS\DEv\Zendesk Ticket Logger\Dev\resources\Autocomplete-master\Autocomplete-master\Autocomplete.ahk</script>
+		<script>E:\SCRIPTS\DEv\Zendesk Ticket Logger\Dev\resources\auto.ahk</script>
+		<script>E:\SCRIPTS\DEv\local IP to Name\Local IP 2 Name.ahk</script>
+		<script>Untitled4.ahk</script>
+		<script>Untitled5.ahk</script>
+		<script>E:\SCRIPTS\DEv\External IP\External IP lookup.ahk</script>
+		<script>E:\SCRIPTS\DEv\PowerSaver Schedule\Dev\Power Save Schedule.ahk</script>
+		<script>E:\SCRIPTS\Prod\2. CNA\Signature Replacer\Ver 2\Dev\Auto-Signature.ahk</script>
+		<script>E:\SCRIPTS\CNA Scripts\Request Form\html file.ahk</script>
+		<script>E:\SCRIPTS\CNA Scripts\Request Form\Example.ahk</script>
+		<script>E:\SCRIPTS\CNA Scripts\Request Form\Request Form.ahk</script>
+		<script>Untitled2.ahk</script>
+		<script>Untitled3.ahk</script>
+		<script>E:\SCRIPTS\Prod\1. GETaGUI Store\MalMailer\Dev\MalMail.ahk</script>
+		<script>E:\SCRIPTS\Prod\1. GETaGUI Store\External IP\External IP lookup.ahk</script>
+		<script>E:\SCRIPTS\Prod\1. GETaGUI Store\SimpleRecord\Dev\Simple Problem Capture - Dev.ahk</script>
+		<script>E:\SCRIPTS\Prod\1. GETaGUI Store\local IP to Name\Local IP 2 Name.ahk</script>
+		<script>E:\SCRIPTS\DEv\PowerLook\Dev\Resources\Loop Lookup.ahk</script>
+		<script>E:\SCRIPTS\DEv\PowerLook\Dev\Resources\droplist.ahk</script>
+		<script>E:\SCRIPTS\DEv\Zendesk Ticket Logger\Zendesk Request logger.ahk</script>
+		<script>E:\DevOps\SCRIPTS\DEv\Clean Up\Remote Cleanup.ahk</script>
+		<script>E:\SCRIPTS\DEv\Zendesk Ticket Logger\Dev\GUI shell.ahk</script>
+		<script>E:\SCRIPTS\1. AHK Library\Settings ini.ahk</script>
+		<script>E:\SCRIPTS\DEv\Zendesk Ticket Logger\Aug 2018 v 2\EzyTicket.ahk</script>
+		<script>E:\SCRIPTS\DEv\Join Wifi - Windows USB\USB Wifi Key\Join Network.ahk</script>
+		<script>E:\SCRIPTS\DEv\Print Spool Fixer\Print Spool Fixer.ahk</script>
+		<script>E:\SCRIPTS\DEv\OP Time Zone\OP TimeZone.ahk</script>
+		<script>E:\DevOps\SCRIPTS\DEv\OP Time Zone\OP TimeZone.ahk</script>
+		<script>E:\DevOps\SCRIPTS\DEv\Print Spool Fixer\Print Spool Fixer.ahk</script>
+	</previous_scripts>
+	<open>
+		<file>E:\DevOps\SCRIPTS\DEv\Clean Up\Older then 10 Days Deleter.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\PowerLook\Dev\Main.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\OP Time Zone\OP TimeZone.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Text Writer\Text Writer - Ctrl J.ahk</file>
+		<file>E:\DevOps\SCRIPTS\Prod\1. GETaGUI Store\MalMailer\Dev\MalMail.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Provisioner\Run box.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Provisioner\Provisioner.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Line by Line Reader\Line by Line Reader.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Line by Line Reader\Reader test.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\DoThis@\DoThis@ script.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Chrome Viz Bug\Chrome Viz Bug.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Chrome Viz Bug\32 64 check.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\Citrix Thinwire EnableOSS False - Local\EnableOSS.ahk</file>
+		<file>E:\DevOps\SCRIPTS\DEv\La Trobe\Citation and Reference Keeper (Websites)\App - Citation and Reference Keeper for Websites.ahk</file>
+	</open>
+	<search>
+		<find acdc="0" allfiles="0" cs="0" daioc="0" gr="0" regex="0" sort="0"></find>
+	</search>
+	<HelpNag>1</HelpNag>
+	<export>
+		<file file="E:\DevOps\SCRIPTS\DEv\Chrome Viz Bug\Chrome Viz Bug.ahk"></file>
+	</export>
+</settings>
